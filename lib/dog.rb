@@ -40,6 +40,7 @@ class Dog
 
   def self.save
     sql = <<-SQL
+    INSERT INTO dogs (name, breed)
     SQL
     end
 end
