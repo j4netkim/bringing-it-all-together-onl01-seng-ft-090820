@@ -29,6 +29,10 @@ class Dog
   end
 
 
+  def self.new_from_db
+  end
+
+
   # def save
     # if self.id
     #   self.update
