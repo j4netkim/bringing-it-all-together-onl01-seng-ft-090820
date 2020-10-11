@@ -38,7 +38,7 @@ class Dog
   end
 
 
-  def save
+  def self.save
     if self.id
       self.update
     else
