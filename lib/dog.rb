@@ -49,4 +49,8 @@ class Dog
     new_dog = self
     new_dog
   end
+
+
+  def self.create
+  end
 end
