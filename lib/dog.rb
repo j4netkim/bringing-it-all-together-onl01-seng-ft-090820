@@ -39,5 +39,7 @@ class Dog
 
 
   def self.save
+    sql = <<-SQL
+    SQL
     end
 end
